@@ -24,9 +24,9 @@ A robust testing strategy has been developed covering the following key areas:
 Detailed bug reports and execution results are documented within the testing checklist to ensure high-quality software delivery.
 
 ## 🛠️ Tools Used
-- Mind Mapping: AI Visualizer
-- Documentation: MS Excel / Google Sheets
-- Version Control: GitHub
+- **Mind Mapping:** [Whimsical](https://whimsical.com/)
+- **Documentation:** MS Excel / Google Sheets
+- **Version Control:** GitHub
 
 ## 🤝 Acknowledgement
-Special thanks to **Mallik Galib Shahriar** for his overall supervision and invaluable guidance throughout this project.
+
