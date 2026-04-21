@@ -6,7 +6,7 @@ A comprehensive SQA documentation project for a Voucher Marketplace System, feat
 This project represents a comprehensive architectural overview and a detailed QA testing strategy for a full-scale **Voucher Marketplace System**. 
 
 ## 🗺️ Project Mind Map
-![Mind Map](mindmap/your-image-name.png) 
+![Mind Map](mindmap/voucher_map.png)
 *The mind map outlines the core modules including User Roles, Voucher System, QR Redeem, AI Features, and more.*
 
 ## 📋 QA Testing Checklist
